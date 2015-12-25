@@ -48,9 +48,9 @@ Computer Graphics (CG) is a subfield of Computer Science pertaining to "making i
 
 Fruits of computer graphics:
 
-|<img src="http://compass.xboxlive.com/assets/0f/eb/0feb7a56-f8c1-45e1-a412-a7edf8141f4e.jpg?n=Microsoft_Hololens_1200x630.jpg" />|<img src="http://www.grg.org/images/BrainWhiteMatter.jpg"/>|<img src="http://www.deskeng.com/de/wp-content/uploads/2014/06/Fig3_Dassault_driving_620.jpg"/>|<img src="http://cdn1.sciencefiction.com/wp-content/uploads/2015/05/Star-Wars-Jar-Jar-Binks-banner.png" />|
-|-|-|-|-|
-|Virtual Reality| Diffusion Tensor Imaging| Automotive Design | Star Wars |
+<img src="http://compass.xboxlive.com/assets/0f/eb/0feb7a56-f8c1-45e1-a412-a7edf8141f4e.jpg?n=Microsoft_Hololens_1200x630.jpg" />|<img src="http://www.grg.org/images/BrainWhiteMatter.jpg"/>|<img src="http://www.deskeng.com/de/wp-content/uploads/2014/06/Fig3_Dassault_driving_620.jpg"/>|<img src="http://cdn1.sciencefiction.com/wp-content/uploads/2015/05/Star-Wars-Jar-Jar-Binks-banner.png" />
+----|----|----|----
+Virtual Reality| Diffusion Tensor Imaging| Automotive Design | Star Wars
 
 CG is ubiquitous and highly interdisciplinary; producing just 5 seconds of a [Pixar film](http://www.imdb.com/title/tt2096673/) will utilize techniques from these areas of computer science and mathematics:
 
