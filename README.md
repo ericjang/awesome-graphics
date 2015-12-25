@@ -313,9 +313,9 @@ See Ke-Sen Huang's paper collection of i3d papers ([Symposium on Interactive 3D 
 <a name="npr" />
 ## Non-photorealistic Rendering
 
-<img src="http://chrisoatley.com/wp-content/uploads/2013/02/PapermanFeature.jpg" height="120px" />|<img src="https://cynicritics.files.wordpress.com/2013/09/waking-life-800-75.jpg" height="120px" /> |<img src="http://i.imgur.com/sC50qNf.png" height="120px"/>
---|--|--
-Paperman| Waking Life| [Pixar 2013](https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/47/asset/p477-meier_1996.pdf)
+<img src="http://chrisoatley.com/wp-content/uploads/2013/02/PapermanFeature.jpg" height="120px" /> | <img src="https://cynicritics.files.wordpress.com/2013/09/waking-life-800-75.jpg" height="120px" /> | <img src="http://i.imgur.com/sC50qNf.png" height="120px"/>
+----- | ------ | ------
+Paperman | Waking Life| [Pixar 2013](https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/47/asset/p477-meier_1996.pdf)
 
 - [Painterly Rendering for Animation](https://disney-animation.s3.amazonaws.com/uploads/production/publication_asset/47/asset/p477-meier_1996.pdf) Meier, Barbara. Disney Animation Research, 1996.
 - [Stylizing Animation by Example](http://graphics.pixar.com/library/ByExampleStylization/paper.pdf). Pixar Animation. 2013.
