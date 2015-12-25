@@ -76,7 +76,7 @@ Exciting stuff. But if you're just getting started, this list can be overwhelmin
 
 2. You can play with computer graphics in whatever language you are most comfortable with. [Processing](https://processing.org/) or [Three.js (JavaScript)](http://threejs.org/) are the most painless languages to get your hands dirty with graphics. If you come from an artistic background, many familiar tools (Maya, Photoshop, Houdini) have scripting interfaces that let you build things procedurally.
 
-3. Spend some time learning tools for CG artists (e.g. Maya, Houdini, Photoshop, Blender, ZBrush). Play some [Halo 5](https://www.youtube.com/watch?v=b7itmX6WlI4) and admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of real-time graphics.
+3. Spend some time learning tools for CG artists (e.g. Maya, Houdini, Photoshop, Blender, ZBrush). Play some [Halo 5](https://www.youtube.com/watch?v=b7itmX6WlI4) and admire how much geometry is in the scene. These will give you a strong intuition of the capabilities and limitations of CG today.
 
 4. Textbooks and notes from university-level graphics courses are a good resource for learning more math-heavy concepts like physically-based rendering and geometry processing.
 
