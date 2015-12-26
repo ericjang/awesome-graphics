@@ -40,6 +40,7 @@ Please suggest papers/articles/resources through [Github pull requests](https://
 - [Meshes](#mesh)
 - [Image-based Editing and Reconstruction](#image)
 - [Virtual Reality](#vr)
+- [Computational Photography](#photo)
 
 <a name="start" />
 ## New to Computer Graphics?
@@ -402,3 +403,8 @@ Microsoft Hololens|Wow
 - [Implementing Stereoscopic 3D in your applications](http://www.nvidia.com/content/gtc-2010/pdfs/2010_gtc2010.pdf)
 - [John Carmack's Oculus Connect 2015 talk](https://www.youtube.com/watch?v=Ti_3SqavXjkhttps://www.youtube.com/watch?v=Ti_3SqavXjk)
 - [Why You Won’t See Hard AR Anytime Soon](http://blogs.valvesoftware.com/abrash/why-you-wont-see-hard-ar-anytime-soon/)
+
+<a name="photo" />
+## Computational Photography 
+
+- [CAVE Laboratory at Columbia](http://www.cs.columbia.edu/CAVE/projects/cc.php)
