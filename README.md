@@ -139,6 +139,7 @@ Before physically-based rendering theory was developed, 3D rendering was mostly 
 
 - [Realistic Raytracing, by Zack Waters](http://web.cs.wpi.edu/~emmanuel/courses/cs563/write_ups/zackw/realistic_raytracing.html)
 
+
 <a name="pt" />
 ### Vanilla Path Tracing
 
@@ -301,6 +302,7 @@ Modern and proprietary commercial renderers probably implement a combination of 
   - Using neural networks to predict the indirect light field.
   - [video](https://vimeo.com/70734281)
 - [Temporal light field reconstruction for rendering distribution effects](http://groups.csail.mit.edu/graphics/tlfr/). Lehtinen et al. SIGGRAPH 2011.
+- [The Secret Life of Photons](https://benedikt-bitterli.me/tantalum/) Light transport tutorial
 
 <a name="games" />
 ## 3D Games
