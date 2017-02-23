@@ -172,7 +172,7 @@ Basic idea: combine eye->light tracing and light->eye tracing to increase conver
 MCMC sampling for light paths.
 
 - [Metropolis light transport](https://graphics.stanford.edu/papers/metro/metro.pdf) Veach & Guibas. SIGGRAPH 1997.
-- [Mitsuba Renderer](www.mitsuba-renderer.org) MLT is notoriously difficult to implement.
+- [Mitsuba Renderer](http://www.mitsuba-renderer.org) MLT is notoriously difficult to implement.
 - [Peter Kutz's BPT+MLT Blog](http://bptmlt.blogspot.com/)
 
 <a name="radiosity" />
