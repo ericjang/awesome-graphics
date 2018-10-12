@@ -112,6 +112,7 @@ Many items in the list shown here were consolidated from other reading lists, ma
 - [Physically Based Rendering: From Theory to Implementation, 2nd Edition (Pharr 2010)](http://www.pbrt.org/)
   - THE Rendering Book. It also [won an Academy Award at the Oscars!](https://www.youtube.com/watch?v=7d9juPsv1QU)
 - [GPU Gems 3, by NVIDIA](http://http.developer.nvidia.com/GPUGems3/gpugems3_part01.html)
+- [Ray Tracing In One Weeked](https://github.com/petershirley/raytracinginoneweekend)
 
 <a name="pbr" />
 ## Physically-based (Photorealistic) Rendering
